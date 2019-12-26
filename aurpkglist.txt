@@ -1,0 +1,16 @@
+aic94xx-firmware
+btmenu
+bumblebee-status
+clight
+fonts-tlwg
+howdy
+insync
+laptop-mode-tools
+megasync
+mutt-wizard-git
+polybar
+teamviewer
+ttf-tahoma
+urlview
+wd719x-firmware
+yay
